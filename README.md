@@ -3,6 +3,7 @@
 The script sets the permissions of a given file to `rwxrwxr-x` (775), which allows the owner and group to read, write, and execute the file, while others can only read and execute it.
 
 ## Flowchart
+![linux file permissions Flowchart](https://github.com/user-attachments/assets/9633178d-fd57-4731-b82c-94d023ad265a)
 This flowchart illustrates the decision-making process for checking and applying file permissions based on the owner's and group's status.
 
 
